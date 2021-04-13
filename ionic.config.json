@@ -1,0 +1,7 @@
+{
+  "name": "appcenter-capacitor-build-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
